@@ -6,7 +6,7 @@ You can convert Markdown into HTML like fitting the format you customized throug
 
 And, you can use all classes in this code.
 
-I really hope you make use of Lexical analysis, etc.
+I really hope you make use of it with Lexical analysis, etc.
 
 ## NOTE
 This program cannot interpret Markdown exactly because this was created I wanted to write an article easily.
