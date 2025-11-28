@@ -1,5 +1,5 @@
-# MD_to_HTML_parser
-Parsing MD to HTML.
+# MD_into_HTML_converter
+Converting MD into HTML.
 
 ## ABOUT
 You can convert Markdown into HTML like fitting the format you customized through this program.
